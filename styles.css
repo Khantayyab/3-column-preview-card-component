@@ -1,0 +1,36 @@
+.row{
+  padding: 7% 15%;
+  background-color: #fff;
+position: relative;
+}
+.card{
+  padding: 50px;
+  
+}
+
+#sedans{background-color:  #e38826;}
+#suvs{background-color:	#006970;}
+#luxury{background-color:	#004241;}
+
+h2{
+  color: #ffff;
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+  font-size: 25px;
+  padding: 10px 1px;
+  
+}
+p{
+  font-family: 'Lexend Deca', sans-serif;
+  padding:10px 1px 40px 1px ;
+  color: #f2f2f2;
+}
+#sedans-btn,#suvs-btn,#luxury-btn{
+  padding:14px 20px;
+  text-align: center;
+  border-radius:  10px;
+    font-size: 17px;
+}
+#sedans-btn{color: #e38826;}
+#suvs-btn{color: #006970;}
+#luxury-btn{color: #004241;}
